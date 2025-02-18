@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Networking Fundamentals**
 - 📫 Reach out to me **hammycodes@gmail.com**
-  
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ls_hassaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ls_hassaan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ls-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ls-hassan" height="30" width="40" /></a>
