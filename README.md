@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fried, I'm Hassan</h1>
+<h1 align="center">Hello Friend, I'm Hassan</h1>
 <h3 align="center">A versatilist cybersecurity Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ls-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="ls-hassan" /> </p>
