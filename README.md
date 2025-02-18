@@ -6,15 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=ls-hassan&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-___
-
-
 ## About Me
 
 - 🌱 I’m currently learning **Networking Fundamentals**  
 - 📫 Reach out to me: **hammycodes@gmail.com**
-
-___
 
 
 ## Connect with Me
@@ -24,9 +19,6 @@ ___
   <a href="https://www.youtube.com/@ls-hassan" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/> </a>
   <a href="https://www.linkedin.com/in/hassan-ahmed-malik/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
 </p>
-
-___
-
 
 ## Languages and Tools
 
@@ -41,17 +33,12 @@ ___
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 </p>
 
-___
-
 
 ## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-hassan&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-___
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ls-hassan&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="GitHub Stats" />
