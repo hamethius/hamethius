@@ -37,10 +37,10 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-hassan&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamethius&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ls-hassan&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamethius&show_icons=true&theme=dark&title_color=cb3470&text_color=a9fef7&bg_color=141321&locale=en" alt="GitHub Stats" />
 </p>
 
