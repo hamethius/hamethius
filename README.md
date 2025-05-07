@@ -1,4 +1,4 @@
-# Hello Friend, I'm Hassan
+# Hello Friend, I'm Hamethius
 
 ### A Versatilist Cybersecurity Student
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Networking Fundamentals**  
+- 🌱 I’m currently learning **Linux**  
 - 📫 Reach out to me: **hammycodes@gmail.com**
 
 
