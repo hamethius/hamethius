@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Linux**  
+- 🌱 I’m currently learning **Linux and Network Security**  
 - 📫 Reach out to me: **hammycodes@gmail.com**
 
 
