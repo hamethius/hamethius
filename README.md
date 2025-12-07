@@ -3,7 +3,7 @@
 ### A Versatilist Cybersecurity Student
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ls-hassan&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hamethius&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ## About Me
@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://instagram.com/hamethius" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/> </a>
   <a href="https://www.youtube.com/@hamethius" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/> </a>
-  <a href="https://www.linkedin.com/in/hamethius/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
+  <a href="https://www.linkedin.com/in/nope/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a>
 </p>
 
 ## Languages and Tools
